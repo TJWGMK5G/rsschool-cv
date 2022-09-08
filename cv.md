@@ -18,12 +18,12 @@ Experience consists of public domain layouts making up with minimal use of JS.
 * BEM
 
 ## Code Examples:
-``
+```
 function noSpace(str){  
 return str.split(' ').join('');  
 }
 
-``
+```
 
 ## Courses:
 [https://learn.javascript.ru/#](https://learn.javascript.ru/#)  
